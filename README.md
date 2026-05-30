@@ -1,9 +1,9 @@
 # FitAura - Health Dashboard
 
 A simple health tracking dashboard built with HTML, CSS, and JavaScript.
-**
-Link - https://dishita-taneja.github.io/Fit-Aura/
-**
+
+**Link **- https://dishita-taneja.github.io/Fit-Aura/
+
 ## Features
 
 - **Fitness Tracking**: Step counter, active minutes, workout tracking
